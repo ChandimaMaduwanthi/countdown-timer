@@ -3,6 +3,10 @@
 }
 
 body{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    /* background-position: center center; */
     font-family: "Poppins",sans-serif;
     margin: 0;
 }
